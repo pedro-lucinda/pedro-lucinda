@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá 👋 Eu sou <strong>Pedro Lucinda</strong> 👨‍💻
 
-<!--
-**pedro-lucinda/pedro-lucinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
-Here are some ideas to get you started:
+<p align='center'>
+  <strong>FrontEnd Web Developer</strong>, <strong>Rio Grande Do Sul, Brazil</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/pedrolucinda/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+___
+
+## Algumas estatísticas minhas:
+
+<a href="https://github.com/pedro-lucinda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
+</a>
+<a href="https://github.com/pedro-lucinda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
+</a>
+
+
+___
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
+
+### Obrigado por visitar!!
+### Estes são meus 3 melhores repositórios 👇 
