@@ -16,13 +16,6 @@ ___
 
 ## Algumas estatísticas minhas:
 
-<a href="https://github.com/pedro-lucinda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
-</a>
-<a href="https://github.com/pedro-lucinda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
-</a>
-
 
 ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
