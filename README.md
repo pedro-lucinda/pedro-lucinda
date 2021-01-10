@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou <strong>Pedro Lucinda</strong> 👨‍💻
+# Hi 👋 I'm <strong>Pedro Lucinda</strong> 👨‍💻
 <p align='center'>
   <strong>FrontEnd Web Developer</strong>, <strong>Rio Grande Do Sul, Brazil</strong>.
 </p>
@@ -11,7 +11,7 @@
 
 ___
 
-## Algumas estatísticas minhas:
+## Stats:
 
 <a href="https://github.com/pedro-lucinda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-lucinda&show_icons=true&theme=radical" alt="Github status" />
@@ -24,5 +24,4 @@ ___
 ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-lucinda" alt="Status" /> </p>
 
-### Obrigado por visitar!!
-### Estes são meus 3 melhores repositórios 👇 
+### Some of my work 👇 
