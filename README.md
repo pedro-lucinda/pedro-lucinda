@@ -1,6 +1,6 @@
 # Hi 👋 I'm <strong>Pedro Lucinda</strong> 👨‍💻
 <p align='center'>
-  <strong>FrontEnd Web Developer</strong>, <strong>Rio Grande Do Sul, Brazil</strong>.
+  <strong>FullStack Web Developer</strong>, <strong>Rio Grande Do Sul, Brazil</strong>.
 </p>
 
 <p align='center'>  
