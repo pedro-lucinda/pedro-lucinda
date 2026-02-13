@@ -10,13 +10,13 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=typescript,js,python,solidity,java)
+![Languages](https://skillicons.dev/icons?i=typescript,js,python,solidity)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind,jest,cypress)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,django,docker,fastapi,nestjs,redis,nodejs)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,langchain,django,docker,fastapi,nestjs,redis,nodejs)](https://skillicons.dev)
 
 #### Databases
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
